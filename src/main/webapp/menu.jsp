@@ -51,6 +51,10 @@
                                     <th>NOMBRE</th>
                                     <th>CANTIDAD</th>
                                     <th>ACCIONES</th>
+                                     <th>#</th>
+                                    <th>NOMBRE</th>
+                                    <th>CANTIDAD</th>
+                                    <th>ACCIONES</th>
                                 </tr>
                             </thead>
                             <tbody id="tbody-list">
